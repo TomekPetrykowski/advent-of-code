@@ -9,7 +9,7 @@ import java.util.List;
 
 // PART I ------------------------------------------------------------------ //
 
-public class Main {
+public class Second {
   public static void main(String[] args) throws FileNotFoundException, IOException {
     List<Integer> locations0 = new ArrayList<>();
     List<Integer> locations1 = new ArrayList<>();
